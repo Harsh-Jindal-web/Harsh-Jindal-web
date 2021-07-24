@@ -37,7 +37,7 @@
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://harsh-jindal-web.github.io/HarshJindal.tech.github.io/)     | IPortfolio website build using HTML5, CSS3 and JavaScript. 
+| [My Portfolio Website](https://harsh-jindal-web.github.io/HarshJindal.tech.github.io/)     | Portfolio website build using HTML5, CSS3 and JavaScript. 
 | [Art Gallary Website](https://harsh-jindal-web.github.io/ArtGallaryPortal.github.io/)   | This is a Art Gallary Portal, The main feature of this ART GALLARY is to offer a wide range of work art from the seventheeth centuray to present days.
   
   
