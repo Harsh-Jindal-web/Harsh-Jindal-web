@@ -38,8 +38,10 @@
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [College Project](http://cgcassignments.com/)     | CGC ASSGN  provide authentic notes, PTU solved PYQ, MST solved PYQ, markings & syllabus and other study materials for FREE. 
-| [My Portfolio Website](https://harsh-jindal-web.github.io/HarshJindal.tech.github.io/)     | Portfolio website build using HTML5, CSS3 and JavaScript.   
-| [Art Gallary Website](https://harsh-jindal-web.github.io/ArtGallaryPortal.github.io/)   | This is a Art Gallary Portal, The main feature of this ART GALLARY is to offer a wide range of work art from the seventheeth centuray to present days.
+| [Text To Speech Convertor](https://text-to-speech-convertor.netlify.app/)     | Text to speech is a technology that converts text into spoken audio.  
+| [My Portfolio Website](https://harsh-jindal-web.github.io/HarshJindal.tech.github.io/)     | Portfolio website build using HTML5, CSS3 and JavaScript. 
+| [Google Clone](https://harsh-jindal-web.github.io/Google-Clone/)   | It is basically the clone of Google.  
+| [Weather App](https://harsh-jindal-web.github.io/Weather-App/)   | In this weather app, you can get the weather details of a particular city by entering the city name or you can also get your current location weather details by clicking on the “Get Device Location” button.
   
   
 <h3 align="left">Languages and Tools:</h3>
